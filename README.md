@@ -8,6 +8,16 @@ A high-fidelity EasyEffects preset engineered to deliver a balanced, immersive, 
 
 Sri's Hi-Fi Audio Mixing is designed for users who want a premium audio experience without excessive coloration. The tuning focuses on achieving deep and controlled bass, detailed mids, smooth treble, and an expansive stereo image while preserving listening comfort during extended sessions.
 
+## Installation
+
+1. Download the preset JSON file.
+2. Open EasyEffects.
+3. Navigate to **Presets**.
+4. Select **Import**.
+5. Choose the downloaded preset.
+6. Apply the preset to your output device.
+
+
 ## Features
 
 - High-fidelity sound signature
@@ -51,15 +61,6 @@ Recommended for:
 - USB DACs and external audio interfaces
 
 Results may vary depending on the frequency response of your headphones or speakers.
-
-## Installation
-
-1. Download the preset JSON file.
-2. Open EasyEffects.
-3. Navigate to **Presets**.
-4. Select **Import**.
-5. Choose the downloaded preset.
-6. Apply the preset to your output device.
 
 ## License
 
