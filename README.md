@@ -1,6 +1,10 @@
 # Easy-Effects-linux-Dolby-level-Audio-Enhancher
 A carefully tuned EasyEffects preset designed to deliver a rich, immersive, and cinematic listening experience
+#**NEW PRESENT**
+if you are a pure bass lover try the bass drop+feel its extremely good, really good in headphones.
+
 # Sri's Hi-Fi Audio Mixing
+
 
 A high-fidelity EasyEffects preset engineered to deliver a balanced, immersive, and cinematic listening experience. This preset enhances bass response, improves vocal clarity, expands the perceived soundstage, and maintains a natural tonal balance suitable for a wide range of content.
 
